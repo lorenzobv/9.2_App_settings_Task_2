@@ -1,0 +1,4 @@
+#Sat Apr 06 12:30:16 CEST 2019
+base.0=C\:\\Users\\loren\\Desktop\\DAM\\Programacion multimedia e dispositivos mobiles\\4\\DroidCafeWithSettings\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
